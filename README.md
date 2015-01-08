@@ -10,7 +10,7 @@ If you get a permissions denied error for bpf
 Usage
 =====
 
-```javascript
+```bash
 node nshey.js
-// outputs to packets.log
+# outputs to packets.log
 ```
